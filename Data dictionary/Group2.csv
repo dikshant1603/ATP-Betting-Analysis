@@ -1,0 +1,104 @@
+schema_nm,table_nm,obj_typ,ord,is_key,column_nm,data_typ,nullable,column_descr
+Group2,atpMatch,TBL,1,PK,TID_MID,varchar(40),NOT NULL,composite primary key/(Tournament Id + matchId)
+Group2,atpMatch,TBL,2,FK,tourney_id,varchar(40),NULL,Tournament ID
+Group2,atpMatch,TBL,3,FK,winner_id,int(10),NULL,winner_id
+Group2,atpMatch,TBL,4,FK,loser_id,int(10),NULL,loser_id
+Group2,atpMatch,TBL,5, ,match_num,int(10),NULL,match_num
+Group2,atpMatch,TBL,6, ,winner_seed,text(65535),NULL,Winner_seed position
+Group2,atpMatch,TBL,7, ,winner_entry,text(65535),NULL,
+Group2,atpMatch,TBL,8, ,winner_age,double(22),NULL,winner_age
+Group2,atpMatch,TBL,9, ,winner_rank,text(65535),NULL,winner_rank
+Group2,atpMatch,TBL,10, ,winner_rank_points,text(65535),NULL,winner_rank_points
+Group2,atpMatch,TBL,11, ,loser_seed,text(65535),NULL,Loser seed position
+Group2,atpMatch,TBL,12, ,loser_entry,text(65535),NULL,
+Group2,atpMatch,TBL,13, ,loser_age,double(22),NULL,loser_age
+Group2,atpMatch,TBL,14, ,loser_rank,text(65535),NULL,loser_rank
+Group2,atpMatch,TBL,15, ,loser_rank_points,text(65535),NULL,loser_rank_points
+Group2,atpMatch,TBL,16, ,score,text(65535),NULL,score
+Group2,atpMatch,TBL,17, ,best_of,int(10),NULL,best_of
+Group2,atpMatch,TBL,18, ,round,text(65535),NULL,round
+Group2,atpMatch,TBL,19, ,minutes,int(10),NULL,minutes
+Group2,atpMatch,TBL,20, ,w_ace,int(10),NULL,winner_Ace Point
+Group2,atpMatch,TBL,21, ,w_df,int(10),NULL,Winner_#DoubleFault
+Group2,atpMatch,TBL,22, ,w_svpt,int(10),NULL,Winner_Total Serve Points
+Group2,atpMatch,TBL,23, ,w_1stIn,int(10),NULL,winner # 1st serves in
+Group2,atpMatch,TBL,24, ,w_1stWon,int(10),NULL,Winner # points won on 1st serve
+Group2,atpMatch,TBL,25, ,w_2ndWon,int(10),NULL,Winner # points won on 2nd serve
+Group2,atpMatch,TBL,26, ,w_SvGms,int(10),NULL,Winner # Serve games
+Group2,atpMatch,TBL,27, ,w_bpSaved,int(10),NULL,Winner break point saved
+Group2,atpMatch,TBL,28, ,w_bpFaced,int(10),NULL,Winner break point faced
+Group2,atpMatch,TBL,29, ,l_ace,int(10),NULL,Loser_Ace Point
+Group2,atpMatch,TBL,30, ,l_df,int(10),NULL,Loser_#DoubleFault
+Group2,atpMatch,TBL,31, ,l_svpt,int(10),NULL,Loser Total Serve Points
+Group2,atpMatch,TBL,32, ,l_1stIn,int(10),NULL,Loser # 1st serves in
+Group2,atpMatch,TBL,33, ,l_1stWon,int(10),NULL,Loser # points won on 1st serve
+Group2,atpMatch,TBL,34, ,l_2ndWon,int(10),NULL,Loser # points won on 2nd serve
+Group2,atpMatch,TBL,35, ,l_SvGms,int(10),NULL,Loser # serve games
+Group2,atpMatch,TBL,36, ,l_bpSaved,int(10),NULL,Loserbreak point saved
+Group2,atpMatch,TBL,37, ,l_bpFaced,int(10),NULL,Loser break point faced
+Group2,bettingDatat,TBL,1,PK,WID_LID_DATE,varchar(40),NOT NULL,composite primary key/(Winner Id + Loser Id + date)
+Group2,bettingDatat,TBL,2,FK,TID,varchar(40),NULL,Tournament ID
+Group2,bettingDatat,TBL,3,FK,TID_MID,varchar(40),NULL,Composite foreignkey(Tournament Id+ Match Id)
+Group2,bettingDatat,TBL,4,FK,WID,int(10),NULL,Winner ID
+Group2,bettingDatat,TBL,5,FK,LID,int(10),NULL,Loser ID
+Group2,bettingDatat,TBL,6, ,ATP ,int(10),NULL, Tournament number (men)
+Group2,bettingDatat,TBL,7, ,Location ,text(65535),NULL, Venue of tournament
+Group2,bettingDatat,TBL,8, ,NewDate ,text(65535),NULL,Match Date
+Group2,bettingDatat,TBL,9, ,Series ,text(65535),NULL," Name of ATP tennis series (Grand Slam, Masters, International or International Gold)"
+Group2,bettingDatat,TBL,10, ,Court ,text(65535),NULL, Type of court (outdoors or indoors)
+Group2,bettingDatat,TBL,11, ,Round ,text(65535),NULL, Round of match
+Group2,bettingDatat,TBL,12, ,Best of ,int(10),NULL, Maximum number of sets playable in match
+Group2,bettingDatat,TBL,13, ,Wrank ,int(10),NULL, ATP Entry ranking of the match winner as of the start of the tournament
+Group2,bettingDatat,TBL,14, ,Lrank ,int(10),NULL, ATP Entry ranking of the match loser as of the start of the tournament
+Group2,bettingDatat,TBL,15, ,W1 ,int(10),NULL, Number of games won in 1st set by match winner
+Group2,bettingDatat,TBL,16, ,L1 ,int(10),NULL, Number of games won in 1st set by match loser
+Group2,bettingDatat,TBL,17, ,W2 ,int(10),NULL, Number of games won in 2nd set by match winner
+Group2,bettingDatat,TBL,18, ,L2 ,int(10),NULL, Number of games won in 2nd set by match loser
+Group2,bettingDatat,TBL,19, ,W3 ,text(65535),NULL, Number of games won in 3rd set by match winner
+Group2,bettingDatat,TBL,20, ,L3 ,text(65535),NULL, Number of games won in 3rd set by match loser
+Group2,bettingDatat,TBL,21, ,W4 ,text(65535),NULL, Number of games won in 4th set by match winner
+Group2,bettingDatat,TBL,22, ,L4 ,text(65535),NULL, Number of games won in 4th set by match loser
+Group2,bettingDatat,TBL,23, ,W5 ,text(65535),NULL, Number of games won in 5th set by match winner
+Group2,bettingDatat,TBL,24, ,L5 ,text(65535),NULL, Number of games won in 5th set by match loser
+Group2,bettingDatat,TBL,25, ,Wsets ,int(10),NULL, Number of sets won by match winner
+Group2,bettingDatat,TBL,26, ,Lsets ,int(10),NULL, Number of sets won by match loser
+Group2,bettingDatat,TBL,27, ,Comment ,text(65535),NULL," Comment on the match (Completed, won through retirement of loser, or via Walkover)"
+Group2,bettingDatat,TBL,28, ,CBW ,text(65535),NULL, Centrebet odds of match winner
+Group2,bettingDatat,TBL,29, ,CBL ,text(65535),NULL, Centrebet odds of match loser
+Group2,bettingDatat,TBL,30, ,GBW ,text(65535),NULL, Gamebookers odds of match winner
+Group2,bettingDatat,TBL,31, ,GBL ,text(65535),NULL, Gamebookers odds of match loser
+Group2,bettingDatat,TBL,32, ,IWW ,text(65535),NULL, Interwetten odds of match winner
+Group2,bettingDatat,TBL,33, ,IWL ,text(65535),NULL, Interwetten odds of match loser
+Group2,bettingDatat,TBL,34, ,SBW ,text(65535),NULL, Sportingbet odds of match winner
+Group2,bettingDatat,TBL,35, ,SBL ,text(65535),NULL, Sportingbet odds of match loser
+Group2,bettingDatat,TBL,36, ,B365W ,double(22),NULL, Bet365 odds of match winner
+Group2,bettingDatat,TBL,37, ,B365L ,double(22),NULL, Bet365 odds of match loser
+Group2,bettingDatat,TBL,38, ,B&WW ,text(65535),NULL, Bet&Win odds of match winner
+Group2,bettingDatat,TBL,39, ,B&WL ,text(65535),NULL, Bet&Win odds of match loser
+Group2,bettingDatat,TBL,40, ,EXW ,double(22),NULL, Expekt odds of match winner
+Group2,bettingDatat,TBL,41, ,EXL ,double(22),NULL, Expekt odds of match loser
+Group2,bettingDatat,TBL,42, ,PSW ,double(22),NULL, Pinnacles Sports odds of match winner
+Group2,bettingDatat,TBL,43, ,PSL ,double(22),NULL, Pinnacles Sports odds of match loser
+Group2,bettingDatat,TBL,44, ,WPts ,int(10),NULL, ATP Entry points of the match winner as of the start of the tournament
+Group2,bettingDatat,TBL,45, ,LPts ,int(10),NULL, ATP Entry points of the match loser as of the start of the tournament
+Group2,bettingDatat,TBL,46, ,UBW ,text(65535),NULL, Unibet odds of match winner
+Group2,bettingDatat,TBL,47, ,UBL ,text(65535),NULL, Unibet odds of match loser
+Group2,bettingDatat,TBL,48, ,LBW ,double(22),NULL, Ladbrokes odds of match winner
+Group2,bettingDatat,TBL,49, ,LBL ,double(22),NULL, Ladbrokes odds of match loser
+Group2,bettingDatat,TBL,50, ,SJW ,double(22),NULL, Stan James odds of match winner
+Group2,bettingDatat,TBL,51, ,SJL ,double(22),NULL, Stan James odds of match loser
+Group2,bettingDatat,TBL,52, ,MaxW,double(22),NULL, Maximum odds of match winner (as shown by Oddsportal.com)
+Group2,bettingDatat,TBL,53, ,MaxL,double(22),NULL, Maximum odds of match loser (as shown by Oddsportal.com)
+Group2,bettingDatat,TBL,54, ,AvgW,double(22),NULL, Average odds of match winner (as shown by Oddsportal.com)
+Group2,bettingDatat,TBL,55, ,AvgL,double(22),NULL, Average odds of match loser (as shown by Oddsportal.com)
+Group2,player_info,TBL,1,PK,player_id,int(10),NOT NULL,Player ID
+Group2,player_info,TBL,2, ,player_name,text(65535),NULL,Player Name
+Group2,player_info,TBL,3, ,player_hand,text(65535),NULL,Player Hand
+Group2,player_info,TBL,4, ,player_ht,int(10),NULL,Player Height
+Group2,player_info,TBL,5, ,player_ioc,text(65535),NULL,Country of origin
+Group2,tournament_info,TBL,1,PK,tourney_id,varchar(40),NOT NULL,Tournament ID
+Group2,tournament_info,TBL,2, ,tourney_level,text(65535),NULL,Level of Tournament
+Group2,tournament_info,TBL,3, ,tourney_name,text(65535),NULL,Tournament Name
+Group2,tournament_info,TBL,4, ,surface,text(65535),NULL,Tournament Surface
+Group2,tournament_info,TBL,5, ,draw_size,int(10),NULL,draw size
+Group2,tournament_info,TBL,6, ,MatchDate,text(65535),NULL,Match date

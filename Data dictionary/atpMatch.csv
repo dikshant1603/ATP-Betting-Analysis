@@ -1,0 +1,38 @@
+Field,Description,Type,Null,Key,Default,Description
+TID_MID,composite primary key/(Tournament Id + matchId),varchar(40),NO,PRIMARY,NULL,composite primary key/(Tournament Id + matchId)
+tourney_id,Tournament ID,varchar(40),YES,FOREIGN,NULL,Tournament ID
+winner_id,winner_id,int,YES,FOREIGN,NULL,winner_id
+loser_id,loser_id,int,YES,FOREIGN,NULL,loser_id
+match_num,match_num,int,YES,,NULL,match_num
+winner_seed,Winner_seed position,text,YES,,NULL,Winner_seed position
+winner_entry,,text,YES,,NULL,
+winner_age,winner_age,double,YES,,NULL,winner_age
+winner_rank,winner_rank,text,YES,,NULL,winner_rank
+winner_rank_points,winner_rank_points,text,YES,,NULL,winner_rank_points
+loser_seed,Loser seed position,text,YES,,NULL,Loser seed position
+loser_entry,,text,YES,,NULL,
+loser_age,loser_age,double,YES,,NULL,loser_age
+loser_rank,loser_rank,text,YES,,NULL,loser_rank
+loser_rank_points,loser_rank_points,text,YES,,NULL,loser_rank_points
+score,score,text,YES,,NULL,score
+best_of,best_of,int,YES,,NULL,best_of
+round,round,text,YES,,NULL,round
+minutes,minutes,int,YES,,NULL,minutes
+w_ace,winner_Ace Point,int,YES,,NULL,winner_Ace Point
+w_df,Winner_#DoubleFault,int,YES,,NULL,Winner_#DoubleFault
+w_svpt,Winner_Total Serve Points,int,YES,,NULL,Winner_Total Serve Points
+w_1stIn,winner # 1st serves in,int,YES,,NULL,winner # 1st serves in
+w_1stWon,Winner # points won on 1st serve,int,YES,,NULL,Winner # points won on 1st serve
+w_2ndWon,Winner # points won on 2nd serve,int,YES,,NULL,Winner # points won on 2nd serve
+w_SvGms,Winner # Serve games,int,YES,,NULL,Winner # Serve games
+w_bpSaved,Winner break point saved,int,YES,,NULL,Winner break point saved
+w_bpFaced,Winner break point faced,int,YES,,NULL,Winner break point faced
+l_ace,Loser_Ace Point,int,YES,,NULL,Loser_Ace Point
+l_df,Loser_#DoubleFault,int,YES,,NULL,Loser_#DoubleFault
+l_svpt,Loser Total Serve Points,int,YES,,NULL,Loser Total Serve Points
+l_1stIn,Loser # 1st serves in,int,YES,,NULL,Loser # 1st serves in
+l_1stWon,Loser # points won on 1st serve,int,YES,,NULL,Loser # points won on 1st serve
+l_2ndWon,Loser # points won on 2nd serve,int,YES,,NULL,Loser # points won on 2nd serve
+l_SvGms,Loser # serve games,int,YES,,NULL,Loser # serve games
+l_bpSaved,Loserbreak point saved,int,YES,,NULL,Loserbreak point saved
+l_bpFaced,Loser break point faced,int,YES,,NULL,Loser break point faced

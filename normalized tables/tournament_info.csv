@@ -1,0 +1,1143 @@
+tourney_id,tourney_level,tourney_name,surface,draw_size,MatchDate
+2014-580,G,Australian Open,Hard,128,2014-01-13
+2015-2276,A,Zagreb,Hard,28,2015-02-02
+2015-360,A,Casablanca,Clay,28,2015-04-06
+2015-520,G,Roland Garros,Clay,128,2015-05-24
+2015-439,A,Umag,Clay,28,2015-07-20
+2016-0451,A,Doha,Hard,32,2016-01-04
+2016-580,G,Australian Open,Hard,128,2016-01-18
+2016-7434,A,Sofia,Hard,32,2016-02-01
+2016-0402,A,Memphis,Hard,32,2016-02-08
+2016-0499,A,Delray Beach,Hard,32,2016-02-15
+2016-M007,M,Miami Masters,Hard,128,2016-03-21
+2016-0410,M,Monte Carlo Masters,Clay,64,2016-04-11
+2016-0773,A,Bucharest,Clay,32,2016-04-18
+2016-7163,A,Istanbul,Clay,32,2016-04-25
+2016-0741,A,Nottingham,Grass,64,2016-06-20
+2016-540,G,Wimbledon,Grass,128,2016-06-27
+2016-0439,A,Umag,Clay,32,2016-07-18
+2016-560,G,Us Open,Hard,128,2016-08-29
+2016-M014,A,Moscow,Hard,32,2016-10-17
+2016-0337,A,Vienna,Hard,32,2016-10-24
+2006-424,A,San Jose,Hard,32,2006-02-13
+2000-375,A,Lyon,Carpet,32,2000-11-06
+2002-580,G,Australian Open,Hard,128,2002-01-14
+2002-573,A,Mallorca,Clay,32,2002-04-29
+2006-773,A,Bucharest,Clay,32,2006-09-11
+2008-773,A,Bucharest,Clay,32,2008-09-08
+2009-416,M,Rome Masters,Clay,56,2009-04-27
+2009-520,G,Roland Garros,Clay,128,2009-05-25
+2009-540,G,Wimbledon,Grass,128,2009-06-22
+2009-316,A,Bastad,Clay,28,2009-07-13
+2009-314,A,Gstaad,Clay,32,2009-07-26
+2009-337,A,Vienna,Hard,32,2009-10-26
+2010-773,A,Bucharest,Clay,28,2010-09-20
+2010-438,A,Moscow,Hard,28,2010-10-18
+2011-414,A,Hamburg,Clay,48,2011-07-18
+2007-429,A,Stockholm,Hard,32,2007-10-07
+2010-5012,A,Johannesburg,Hard,32,2010-02-01
+2012-424,A,San Jose,Hard,28,2012-02-13
+2002-360,A,Casablanca,Clay,32,2002-04-08
+2006-533,A,Costa Do Sauipe,Clay,32,2006-02-20
+2013-6710,A,Power Horse Cup,Clay,28,2013-05-19
+2000-717,A,Orlando,Clay,32,2000-05-01
+2003-773,A,Bucharest,Clay,32,2003-09-08
+2005-314,A,Gstaad,Clay,32,2005-07-04
+2005-321,A,Stuttgart,Clay,48,2005-07-18
+2005-475,A,Sopot,Clay,32,2005-08-01
+2005-325,A,Palermo,Clay,32,2005-09-26
+2006-807,A,Acapulco,Clay,32,2006-02-27
+2006-311,A,Queen's Club,Grass,56,2006-06-12
+2006-419,A,Indianapolis,Hard,48,2006-07-17
+2006-520,G,Roland Garros,Clay,128,2006-05-29
+2009-438,A,Moscow,Hard,32,2009-10-19
+2009-568,A,St. Petersburg,Hard,32,2009-10-25
+2010-580,G,Australian Open,Hard,128,2010-01-18
+2010-2276,A,Zagreb,Hard,32,2010-02-01
+2010-496,A,Marseille,Hard,28,2010-02-15
+2010-403,M,Miami Masters,Hard,96,2010-03-24
+2010-741,A,Eastbourne,Grass,32,2010-06-13
+2010-540,G,Wimbledon,Grass,128,2010-06-21
+2010-6116,A,Atlanta,Hard,28,2010-07-19
+2010-418,A,Washington,Hard,48,2010-08-01
+2010-3348,A,New Haven,Hard,48,2010-08-22
+2010-568,A,St. Petersburg,Hard,32,2010-10-25
+2011-451,A,Doha,Hard,32,2011-01-03
+2011-580,G,Australian Open,Hard,128,2011-01-17
+2011-2276,A,Zagreb,Hard,28,2011-01-31
+2011-5053,A,Belgrade,Clay,28,2011-04-25
+2011-741,A,Eastbourne,Grass,32,2011-06-12
+2014-6116,A,Atlanta,Hard,28,2014-07-21
+2014-560,G,US Open,Hard,128,2014-08-25
+2015-440,A,s-Hertogenbosch,Grass,28,2015-06-08
+2015-560,G,US Open,Hard,128,2015-08-31
+2016-M004,A,Acapulco,Hard,32,2016-02-22
+2016-M006,M,Indian Wells Masters,Hard,128,2016-03-07
+2016-0341,A,Metz,Hard,32,2016-09-19
+2000-620,A,Brighton,Hard,32,2000-11-20
+2003-540,G,Wimbledon,Grass,128,2003-06-23
+2010-316,A,Bastad,Clay,28,2010-07-12
+2010-439,A,Umag,Clay,28,2010-07-26
+2016-0495,A,Dubai,Hard,32,2016-02-22
+2000-451,A,Doha,Hard,32,2000-01-03
+2000-580,G,Australian Open,Hard,128,2000-01-17
+2000-495,A,Dubai,Hard,32,2000-02-07
+2000-407,A,Rotterdam,Hard,32,2000-02-14
+2000-500,A,Halle,Grass,32,2000-06-12
+2000-314,A,Gstaad,Clay,32,2000-07-10
+2000-421,M,Canada Masters,Hard,64,2000-07-31
+2000-418,A,Washington,Hard,56,2000-08-14
+2000-560,G,US Open,Hard,128,2000-08-28
+2000-336,A,Hong Kong,Hard,32,2000-10-02
+2001-451,A,Doha,Hard,32,2001-01-01
+2001-580,G,Australian Open,Hard,128,2001-01-15
+2001-407,A,Rotterdam,Hard,32,2001-02-19
+2001-404,M,Indian Wells Masters,Hard,64,2001-03-12
+2001-403,M,Miami Masters,Hard,96,2001-03-19
+2001-573,A,Mallorca,Clay,32,2001-04-30
+2001-416,M,Rome Masters,Clay,64,2001-05-07
+2001-414,M,Hamburg Masters,Clay,64,2001-05-14
+2001-615,A,Dusseldorf,Clay,64,2001-05-21
+2001-500,A,Halle,Grass,32,2001-06-11
+2001-540,G,Wimbledon,Grass,128,2001-06-25
+2001-421,M,Canada Masters,Hard,64,2001-07-30
+2001-422,M,Cincinnati Masters,Hard,64,2001-08-06
+2001-438,A,Moscow,Carpet,32,2001-10-01
+2001-375,A,Lyon,Carpet,32,2001-10-08
+2002-495,A,Dubai,Hard,32,2002-02-25
+2002-404,M,Indian Wells Masters,Hard,64,2002-03-11
+2002-308,A,Munich,Clay,32,2002-04-29
+2002-500,A,Halle,Grass,32,2002-06-10
+2002-741,A,Nottingham,Grass,32,2002-06-17
+2002-540,G,Wimbledon,Grass,128,2002-06-24
+2002-423,A,Los Angeles,Hard,32,2002-07-22
+2002-422,M,Cincinnati Masters,Hard,64,2002-08-05
+2002-419,A,Indianapolis,Hard,56,2002-08-12
+2002-438,A,Moscow,Carpet,32,2002-09-30
+2002-337,A,Vienna,Hard,32,2002-10-07
+2002-568,A,St. Petersburg,Hard,32,2002-10-21
+2003-404,M,Indian Wells Masters,Hard,64,2003-03-10
+2003-520,G,Roland Garros,Clay,128,2003-05-26
+2003-500,A,Halle,Grass,32,2003-06-09
+2003-419,A,Indianapolis,Hard,48,2003-07-21
+2003-423,A,Los Angeles,Hard,32,2003-07-28
+2003-441,A,Long Island,Hard,32,2003-08-18
+2003-560,G,US Open,Hard,128,2003-08-25
+2003-890,A,Shanghai,Hard,32,2003-09-22
+2003-329,A,Tokyo,Hard,48,2003-09-29
+2003-337,A,Vienna,Hard,32,2003-10-06
+2004-402,A,Memphis,Hard,32,2004-02-16
+2004-433,A,Scottsdale,Hard,32,2004-03-01
+2004-403,M,Miami Masters,Hard,96,2004-03-22
+2004-410,M,Monte Carlo Masters,Clay,64,2004-04-19
+2004-615,A,Dusseldorf,Clay,64,2004-05-17
+2004-520,G,Roland Garros,Clay,128,2004-05-24
+2004-500,A,Halle,Grass,32,2004-06-07
+2004-423,A,Los Angeles,Hard,32,2004-07-12
+2004-419,A,Indianapolis,Hard,48,2004-07-19
+2004-421,M,Canada Masters,Hard,64,2004-07-26
+2004-422,M,Cincinnati Masters,Hard,64,2004-08-02
+2004-560,G,US Open,Hard,128,2004-08-30
+2005-339,A,Adelaide,Hard,32,2005-01-03
+2005-495,A,Dubai,Hard,32,2005-02-21
+2005-404,M,Indian Wells Masters,Hard,96,2005-03-07
+2005-410,M,Monte Carlo Masters,Clay,64,2005-04-11
+2005-416,M,Rome Masters,Clay,64,2005-05-02
+2005-414,M,Hamburg Masters,Clay,64,2005-05-09
+2005-520,G,Roland Garros,Clay,128,2005-05-23
+2005-540,G,Wimbledon,Grass,128,2005-06-20
+2005-419,A,Indianapolis,Hard,48,2005-07-18
+2005-421,M,Canada Masters,Hard,64,2005-08-08
+2005-422,M,Cincinnati Masters,Hard,64,2005-08-15
+2005-560,G,US Open,Hard,128,2005-08-29
+2005-438,A,Moscow,Carpet,32,2005-10-10
+2005-568,A,St. Petersburg,Carpet,32,2005-10-24
+2006-580,G,Australian Open,Hard,128,2006-01-16
+2006-433,A,Las Vegas,Hard,32,2006-02-27
+2006-403,M,Miami Masters,Hard,96,2006-03-20
+2006-410,M,Monte Carlo Masters,Clay,64,2006-04-17
+2006-416,M,Rome Masters,Clay,64,2006-05-08
+2006-414,M,Hamburg Masters,Clay,64,2006-05-15
+2007-540,G,Wimbledon,Grass,128,2007-06-25
+2007-423,A,Los Angeles,Hard,32,2007-07-16
+2007-421,M,Canada Masters,Hard,56,2007-08-05
+2007-422,M,Cincinnati Masters,Hard,56,2007-08-13
+2007-560,G,US Open,Hard,128,2007-08-27
+2007-747,A,Beijing,Hard,32,2007-09-10
+2007-3465,A,Mumbai,Hard,32,2007-09-24
+2007-1536,M,Madrid Masters,Hard,48,2007-10-15
+2007-328,A,Basel,Hard,32,2007-10-22
+2008-451,A,Doha,Hard,32,2007-12-31
+2008-433,A,Las Vegas,Hard,32,2008-03-03
+2008-403,M,Miami Masters,Hard,96,2008-03-27
+2008-410,M,Monte Carlo Masters,Clay,56,2008-04-20
+2008-414,M,Hamburg Masters,Clay,56,2008-05-11
+2008-500,A,Halle,Grass,32,2008-06-09
+2008-540,G,Wimbledon,Grass,128,2008-06-23
+2008-314,A,Gstaad,Clay,28,2008-07-07
+2008-421,M,Canada Masters,Hard,56,2008-07-21
+2008-352,M,Paris Masters,Hard,48,2008-10-26
+2009-404,M,Indian Wells Masters,Hard,96,2009-03-12
+2009-403,M,Miami Masters,Hard,96,2009-03-25
+2009-308,A,Munich,Clay,32,2009-05-03
+2009-500,A,Halle,Grass,32,2009-06-08
+2009-321,A,Stuttgart,Clay,32,2009-07-13
+2009-560,G,US Open,Hard,128,2009-08-31
+2009-375,A,Lyon,Hard,32,2009-10-26
+2010-500,A,Halle,Grass,32,2010-06-07
+2000-404,M,Indian Wells Masters,Hard,64,2000-03-13
+2000-403,M,Miami Masters,Hard,96,2000-03-20
+2000-308,A,Munich,Clay,32,2000-05-01
+2000-414,M,Hamburg Masters,Clay,64,2000-05-15
+2000-311,A,Queen's Club,Grass,56,2000-06-12
+2000-741,A,Nottingham,Grass,32,2000-06-19
+2000-540,G,Wimbledon,Grass,128,2000-06-26
+2000-422,M,Cincinnati Masters,Hard,64,2000-08-07
+2000-337,A,Vienna,Hard,32,2000-10-09
+2000-327,A,Toulouse,Hard,32,2000-10-16
+2000-438,A,Moscow,Carpet,32,2000-10-23
+2000-352,M,Paris Masters,Carpet,48,2000-11-13
+2001-496,A,Marseille,Hard,32,2001-02-12
+2001-495,A,Dubai,Hard,32,2001-02-26
+2001-423,A,Los Angeles,Hard,32,2001-07-23
+2001-419,A,Indianapolis,Hard,56,2001-08-13
+2001-560,G,US Open,Hard,128,2001-08-27
+2001-357,M,Stuttgart Masters,Hard,48,2001-10-15
+2001-568,A,St. Petersburg,Hard,32,2001-10-22
+2002-338,A,Sydney,Hard,32,2002-01-07
+2002-408,A,Milan,Carpet,32,2002-01-28
+2002-407,A,Rotterdam,Hard,32,2002-02-18
+2002-403,M,Miami Masters,Hard,96,2002-03-18
+2002-468,A,Estoril,Clay,32,2002-04-08
+2002-414,M,Hamburg Masters,Clay,64,2002-05-13
+2002-560,G,US Open,Hard,128,2002-08-26
+2002-375,A,Lyon,Carpet,32,2002-10-07
+2003-339,A,Adelaide,Hard,32,2002-12-30
+2003-338,A,Sydney,Hard,32,2003-01-06
+2003-408,A,Milan,Carpet,32,2003-01-27
+2003-496,A,Marseille,Hard,32,2003-02-10
+2003-407,A,Rotterdam,Hard,32,2003-02-17
+2003-495,A,Dubai,Hard,32,2003-02-24
+2003-468,A,Estoril,Clay,32,2003-04-07
+2003-416,M,Rome Masters,Clay,64,2003-05-05
+2003-311,A,Queen's Club,Grass,56,2003-06-09
+2003-741,A,Nottingham,Grass,32,2003-06-16
+2003-321,A,Stuttgart,Clay,48,2003-07-14
+2003-319,A,Kitzbuhel,Clay,48,2003-07-21
+2003-418,A,Washington,Hard,48,2003-07-28
+2003-421,M,Canada Masters,Hard,64,2003-08-04
+2003-422,M,Cincinnati Masters,Hard,64,2003-08-11
+2003-438,A,Moscow,Carpet,32,2003-09-29
+2003-1536,M,Madrid Masters,Hard,48,2003-10-13
+2004-338,A,Sydney,Hard,32,2004-01-12
+2004-407,A,Rotterdam,Hard,32,2004-02-16
+2004-496,A,Marseille,Hard,32,2004-02-23
+2004-404,M,Indian Wells Masters,Hard,96,2004-03-08
+2004-468,A,Estoril,Clay,32,2004-04-12
+2004-416,M,Rome Masters,Clay,64,2004-05-03
+2004-375,A,Lyon,Carpet,32,2004-10-04
+2004-1536,M,Madrid Masters,Hard,48,2004-10-18
+2004-568,A,St. Petersburg,Carpet,32,2004-10-25
+2004-352,M,Paris Masters,Carpet,48,2004-11-01
+2005-338,A,Sydney,Hard,32,2005-01-10
+2005-408,A,Milan,Carpet,32,2005-01-31
+2005-424,A,San Jose,Hard,32,2005-02-07
+2005-402,A,Memphis,Hard,32,2005-02-14
+2005-425,A,Barcelona,Clay,56,2005-04-18
+2005-311,A,Queen's Club,Grass,56,2005-06-06
+2005-741,A,Nottingham,Grass,32,2005-06-13
+2005-1536,M,Madrid Masters,Hard,48,2005-10-17
+2005-352,M,Paris Masters,Carpet,48,2005-10-31
+2006-741,A,Nottingham,Grass,32,2006-06-19
+2006-540,G,Wimbledon,Grass,128,2006-06-26
+2006-314,A,Gstaad,Clay,32,2006-07-10
+2006-319,A,Kitzbuhel,Clay,48,2006-07-24
+2006-422,M,Cincinnati Masters,Hard,64,2006-08-14
+2006-3348,A,New Haven,Hard,48,2006-08-21
+2006-438,A,Moscow,Carpet,32,2006-10-09
+2006-568,A,St. Petersburg,Carpet,32,2006-10-23
+2007-451,A,Doha,Hard,32,2007-01-01
+2007-580,G,Australian Open,Hard,128,2007-01-15
+2007-410,M,Monte Carlo Masters,Clay,56,2007-04-15
+2007-311,A,Queen's Club,Grass,56,2007-06-11
+2008-499,A,Delray Beach,Hard,32,2008-02-11
+2008-404,M,Indian Wells Masters,Hard,96,2008-03-13
+2002-782,C,Wrexham CH,Hard,32,2002-07-29
+2003-439,A,Umag,Clay,32,2003-07-21
+2004-424,A,San Jose,Hard,32,2004-02-09
+2004-425,A,Barcelona,Clay,56,2004-04-26
+2004-316,A,Bastad,Clay,32,2004-07-05
+2004-439,A,Umag,Clay,32,2004-07-19
+2004-325,A,Palermo,Clay,32,2004-09-27
+2005-891,A,Chennai,Hard,32,2005-01-03
+2005-439,A,Umag,Clay,32,2005-07-25
+2005-328,A,Basel,Carpet,32,2005-10-24
+2006-891,A,Chennai,Hard,32,2006-01-02
+2006-402,A,Memphis,Hard,32,2006-02-20
+2006-404,M,Indian Wells Masters,Hard,96,2006-03-06
+2006-308,A,Munich,Clay,32,2006-05-01
+2006-500,A,Halle,Grass,32,2006-06-12
+2006-440,A,'s-Hertogenbosch,Grass,32,2006-06-19
+2006-429,A,Stockholm,Hard,32,2006-10-09
+2006-1536,M,Madrid Masters,Hard,48,2006-10-16
+2006-352,M,Paris Masters,Carpet,48,2006-10-30
+2007-301,A,Auckland,Hard,32,2007-01-08
+2007-407,A,Rotterdam,Hard,32,2007-02-19
+2007-425,A,Barcelona,Clay,56,2007-04-23
+2007-520,G,Roland Garros,Clay,128,2007-05-28
+2007-440,A,'s-Hertogenbosch,Grass,32,2007-06-17
+2007-314,A,Gstaad,Clay,32,2007-07-09
+2007-475,A,Sopot,Clay,32,2007-07-30
+2007-438,A,Moscow,Hard,32,2007-10-08
+2008-891,A,Chennai,Hard,32,2007-12-31
+2008-580,G,Australian Open,Hard,128,2008-01-14
+2008-424,A,San Jose,Hard,32,2008-02-18
+2008-308,A,Munich,Clay,32,2008-04-28
+2008-328,A,Basel,Hard,32,2008-10-20
+2009-451,A,Doha,Hard,32,2009-01-05
+2009-5012,A,Johannesburg,Hard,32,2009-02-02
+2009-5053,A,Belgrade,Clay,28,2009-05-04
+2009-311,A,Queen's Club,Grass,56,2009-06-08
+2009-440,A,s-Hertogenbosch,Grass,32,2009-06-14
+2010-341,A,Metz,Hard,28,2010-09-20
+2000-301,A,Auckland,Hard,32,2000-01-10
+2000-424,A,San Jose,Hard,32,2000-02-07
+2000-402,A,Memphis,Hard,48,2000-02-14
+2000-409,A,Atlanta,Clay,32,2000-04-10
+2000-416,M,Rome Masters,Clay,64,2000-05-08
+2000-520,G,Roland Garros,Clay,128,2000-05-29
+2000-440,A,'s-Hertogenbosch,Grass,32,2000-06-19
+2000-423,A,Los Angeles,Hard,32,2000-07-24
+2000-441,A,Long Island,Hard,48,2000-08-21
+2000-890,A,Shanghai,Hard,32,2000-10-16
+2000-357,M,Stuttgart Masters,Hard,48,2000-10-30
+2001-402,A,Memphis,Hard,48,2001-02-19
+2001-409,A,Atlanta,Clay,32,2001-04-23
+2001-520,G,Roland Garros,Clay,128,2001-05-28
+2001-418,A,Washington,Hard,56,2001-08-13
+2001-336,A,Hong Kong,Hard,32,2001-09-24
+2001-329,A,Tokyo,Hard,56,2001-10-01
+2001-337,A,Vienna,Hard,32,2001-10-08
+2002-717,A,Houston,Clay,32,2002-04-22
+2002-418,A,Washington,Hard,56,2002-08-12
+2002-329,A,Tokyo,Hard,56,2002-09-30
+2003-403,M,Miami Masters,Hard,96,2003-03-17
+2000-73,A,Tashkent,Hard,32,2000-09-11
+2001-891,A,Chennai,Hard,32,2001-01-01
+2001-481,A,Copenhagen,Hard,32,2001-02-12
+2001-410,M,Monte Carlo Masters,Clay,64,2001-04-16
+2001-425,A,Barcelona,Clay,56,2001-04-23
+2001-311,A,Queen's Club,Grass,56,2001-06-11
+2001-741,A,Nottingham,Grass,32,2001-06-18
+2001-317,A,Amsterdam,Clay,32,2001-07-16
+2001-475,A,Sopot - WS,Clay,32,2001-07-23
+2002-301,A,Auckland,Hard,32,2002-01-07
+2002-440,A,'s-Hertogenbosch,Grass,32,2002-06-17
+2002-314,A,Gstaad,Clay,32,2002-07-08
+2002-321,A,Stuttgart,Clay,32,2002-07-15
+2002-475,A,Sopot,Clay,32,2002-07-22
+2002-73,A,Tashkent,Hard,32,2002-09-09
+2002-1536,M,Madrid Masters,Hard,48,2002-10-14
+2003-451,A,Doha,Hard,32,2002-12-30
+2003-580,G,Australian Open,Hard,128,2003-01-13
+2003-308,A,Munich,Clay,32,2003-04-28
+2003-414,M,Hamburg Masters,Clay,64,2003-05-12
+2003-316,A,Bastad,Clay,32,2003-07-07
+2003-375,A,Lyon,Carpet,32,2003-10-06
+2003-568,A,St. Petersburg,Hard,32,2003-10-20
+2004-451,A,Doha,Hard,32,2004-01-05
+2004-408,A,Milan,Carpet,32,2004-02-09
+2004-495,A,Dubai,Hard,32,2004-03-01
+2004-414,M,Hamburg Masters,Clay,64,2004-05-10
+2004-440,A,'s-Hertogenbosch,Grass,32,2004-06-14
+2004-321,A,Stuttgart,Clay,48,2004-07-12
+2004-747,A,Beijing,Hard,32,2004-09-13
+2004-438,A,Moscow,Carpet,32,2004-10-11
+2005-580,G,Australian Open,Hard,128,2005-01-17
+2005-316,A,Bastad,Clay,32,2005-07-04
+2005-319,A,Kitzbuhel,Clay,48,2005-07-25
+2005-747,A,Beijing,Hard,32,2005-09-12
+2006-451,A,Doha,Hard,32,2006-01-02
+2006-2276,A,Zagreb,Carpet,32,2006-01-30
+2006-496,A,Marseille,Hard,32,2006-02-13
+2006-495,A,Dubai,Hard,32,2006-02-27
+2006-421,M,Canada Masters,Hard,64,2006-08-07
+2006-560,G,US Open,Hard,128,2006-08-28
+2007-2276,A,Zagreb,Carpet,32,2007-01-29
+2007-496,A,Marseille,Hard,32,2007-02-12
+2007-495,A,Dubai,Hard,32,2007-02-26
+2007-403,M,Miami Masters,Hard,96,2007-03-19
+2007-308,A,Munich,Clay,32,2007-04-30
+2007-416,M,Rome Masters,Clay,56,2007-05-07
+2007-500,A,Halle,Grass,32,2007-06-11
+2007-317,A,Amersfoort,Clay,32,2007-07-16
+2007-568,A,St. Petersburg,Carpet,32,2007-10-22
+2007-352,M,Paris Masters,Hard,48,2007-10-28
+2008-496,A,Marseille,Hard,32,2008-02-11
+2008-615,A,Dusseldorf,Clay,32,2008-05-18
+2008-520,G,Roland Garros,Clay,128,2008-05-25
+2008-329,A,Tokyo,Hard,48,2008-09-29
+2008-568,A,St. Petersburg,Hard,32,2008-10-20
+2009-407,A,Rotterdam,Hard,32,2009-02-09
+2009-496,A,Marseille,Hard,32,2009-02-16
+2009-425,A,Barcelona,Clay,56,2009-04-20
+2009-306,A,Kitzbuhel,Clay,32,2009-05-17
+2009-418,A,Washington,Hard,48,2009-08-02
+2009-421,M,Canada Masters,Hard,56,2009-08-10
+2009-422,M,Cincinnati Masters,Hard,56,2009-08-16
+2009-6003,A,Kuala Lumpur,Hard,28,2009-09-28
+2009-329,A,Tokyo,Hard,32,2009-10-05
+2009-573,A,Valencia,Hard,32,2009-11-02
+2010-407,A,Rotterdam,Hard,32,2010-02-08
+2010-495,A,Dubai,Hard,32,2010-02-22
+2010-308,A,Munich,Clay,32,2010-05-02
+2010-1536,M,Madrid Masters,Clay,56,2010-05-09
+2010-520,G,Roland Garros,Clay,128,2010-05-24
+2010-314,A,Gstaad,Clay,32,2010-07-25
+2010-421,M,Canada Masters,Hard,56,2010-08-09
+2010-560,G,US Open,Hard,128,2010-08-30
+2010-6003,A,Kuala Lumpur,Hard,28,2010-09-27
+2011-407,A,Rotterdam,Hard,32,2011-02-07
+2011-496,A,Marseille,Hard,28,2011-02-14
+2011-403,M,Miami Masters,Hard,96,2011-03-23
+2011-308,A,Munich,Clay,32,2011-04-24
+2011-615,A,Dusseldorf,Clay,32,2011-05-15
+2011-520,G,Roland Garros,Clay,128,2011-05-22
+2011-540,G,Wimbledon,Grass,128,2011-06-20
+2011-321,A,Stuttgart,Clay,32,2011-07-11
+2011-314,A,Gstaad,Clay,28,2011-07-25
+2011-747,A,Beijing,Hard,32,2011-10-03
+2011-568,A,St. Petersburg,Hard,32,2011-10-24
+2012-451,A,Doha,Hard,32,2012-01-02
+2012-2276,A,Zagreb,Hard,32,2012-01-30
+2012-407,A,Rotterdam,Hard,32,2012-02-13
+2012-495,A,Dubai,Hard,32,2012-02-27
+2012-308,A,Munich,Clay,28,2012-04-30
+2012-1536,M,Madrid Masters,Clay,56,2012-05-06
+2012-416,M,Rome Masters,Clay,56,2012-05-13
+2012-520,G,Roland Garros,Clay,128,2012-05-27
+2012-500,A,Halle,Grass,28,2012-06-11
+2012-540,G,Wimbledon,Grass,128,2012-06-25
+2012-421,M,Canada Masters,Hard,48,2012-08-06
+2012-568,A,St. Petersburg,Hard,32,2012-09-17
+2012-747,A,Beijing,Hard,32,2012-10-01
+2012-429,A,Stockholm,Hard,28,2012-10-15
+2012-328,A,Basel,Hard,32,2012-10-22
+2013-451,A,Doha,Hard,32,2012-12-31
+2013-580,G,Australian Open,Hard,128,2013-01-14
+2013-2276,A,Zagreb,Hard,28,2013-02-04
+2013-495,A,Dubai,Hard,32,2013-02-25
+2013-403,M,Miami Masters,Hard,96,2013-03-20
+2013-410,M,Monte Carlo Masters,Clay,56,2013-04-14
+2013-1536,M,Madrid Masters,Clay,56,2013-05-05
+2013-416,M,Rome Masters,Clay,56,2013-05-12
+2013-520,G,Roland Garros,Clay,128,2013-05-27
+2013-500,A,Halle,Grass,28,2013-06-10
+2013-540,G,Wimbledon,Grass,128,2013-06-24
+2013-314,A,Gstaad,Clay,28,2013-07-22
+2013-421,M,Canada Masters,Hard,56,2013-08-05
+2013-422,M,Cincinnati Masters,Hard,56,2013-08-11
+2013-560,G,US Open,Hard,128,2013-08-26
+2013-568,A,St. Petersburg,Hard,32,2013-09-16
+2013-1720,A,Bangkok,Hard,28,2013-09-23
+2013-573,A,Valencia,Hard,32,2013-10-21
+2014-495,A,Dubai,Hard,32,2014-02-24
+2014-1536,M,Madrid Masters,Clay,56,2014-05-04
+2014-416,M,Rome Masters,Clay,56,2014-05-11
+2014-520,G,Roland Garros,Clay,128,2014-05-26
+2014-540,G,Wimbledon,Grass,128,2014-06-23
+2014-321,A,Stuttgart,Clay,28,2014-07-07
+2014-314,A,Gstaad,Clay,28,2014-07-21
+2014-422,M,Cincinnati Masters,Hard,56,2014-08-10
+2014-5014,M,Shanghai Masters,Hard,56,2014-10-05
+2014-438,A,Moscow,Hard,28,2014-10-13
+2015-403,M,Miami Masters,Hard,96,2015-03-25
+2015-773,A,Bucharest,Clay,28,2015-04-20
+2015-322,A,Geneva,Clay,28,2015-05-17
+2015-421,M,Canada Masters,Hard,56,2015-08-10
+2016-0425,A,Barcelona,Clay,64,2016-04-18
+2016-0321,A,Stuttgart,Grass,32,2016-06-06
+2016-0314,A,Gstaad,Clay,32,2016-07-18
+2016-0421,M,Canada Masters,Hard,64,2016-07-25
+2016-M024,M,Cincinnati Masters,Hard,64,2016-08-15
+2016-6242,A,Winston-Salem,Hard,64,2016-08-22
+2016-0568,A,St.Petersburg,Hard,32,2016-09-19
+2006-315,A,Newport,Grass,32,2006-07-10
+2006-423,A,Los Angeles,Hard,32,2006-07-24
+2007-499,A,Delray Beach,Hard,32,2007-01-28
+2007-424,A,San Jose,Hard,32,2007-02-12
+2007-402,A,Memphis,Hard,32,2007-02-19
+2007-433,A,Las Vegas,Hard,32,2007-02-26
+2007-404,M,Indian Wells Masters,Hard,96,2007-03-05
+2007-468,A,Estoril,Clay,32,2007-04-29
+2007-419,A,Indianapolis,Hard,32,2007-07-23
+2008-339,A,Adelaide,Hard,32,2007-12-31
+2008-402,A,Memphis,Hard,32,2008-02-25
+2008-306,A,Poertschach,Clay,32,2008-05-18
+2008-741,A,Nottingham,Grass,32,2008-06-16
+2008-419,A,Indianapolis,Hard,32,2008-07-14
+2008-422,M,Cincinnati Masters,Hard,56,2008-07-28
+2008-560,G,US Open,Hard,128,2008-08-25
+2008-747,A,Beijing,Hard,28,2008-09-22
+2009-301,A,Auckland,Hard,28,2009-01-12
+2009-424,A,San Jose,Hard,32,2009-02-09
+2009-402,A,Memphis,Hard,32,2009-02-16
+2009-499,A,Delray Beach,Hard,32,2009-02-23
+2009-1536,M,Madrid Masters,Clay,56,2009-05-10
+2009-741,A,Eastbourne,Grass,32,2009-06-14
+2009-315,A,Newport,Grass,32,2009-07-06
+2009-419,A,Indianapolis,Hard,32,2009-07-19
+2009-423,A,Los Angeles,Hard,28,2009-07-27
+2009-3348,A,New Haven,Hard,48,2009-08-23
+2010-424,A,San Jose,Hard,32,2010-02-08
+2010-402,A,Memphis,Hard,32,2010-02-15
+2010-404,M,Indian Wells Masters,Hard,96,2010-03-11
+2010-717,A,Houston,Clay,28,2010-04-05
+2010-5053,A,Belgrade,Clay,28,2010-05-03
+2010-615,A,Dusseldorf,Clay,32,2010-05-16
+2010-311,A,Queen's Club,Grass,56,2010-06-07
+2010-315,A,Newport,Grass,32,2010-07-05
+2010-423,A,Los Angeles,Hard,28,2010-07-26
+2010-422,M,Cincinnati Masters,Hard,56,2010-08-15
+2010-5014,M,Shanghai Masters,Hard,56,2010-10-10
+2011-402,A,Memphis,Hard,32,2011-02-14
+2011-499,A,Delray Beach,Hard,32,2011-02-21
+2011-404,M,Indian Wells Masters,Hard,96,2011-03-10
+2011-416,M,Rome Masters,Clay,56,2011-05-08
+2011-311,A,Queen's Club,Grass,56,2011-06-06
+2011-341,A,Metz,Hard,28,2011-09-19
+2011-573,A,Valencia,Hard,32,2011-10-31
+2012-580,G,Australian Open,Hard,128,2012-01-16
+2012-402,A,Memphis,Hard,32,2012-02-20
+2012-404,M,Indian Wells Masters,Hard,96,2012-03-08
+2012-403,M,Miami Masters,Hard,96,2012-03-21
+2012-717,A,Houston,Clay,28,2012-04-09
+2012-311,A,Queen's Club,Grass,56,2012-06-11
+2012-315,A,Newport,Grass,32,2012-07-09
+2012-423,A,Los Angeles,Hard,28,2012-07-23
+2012-418,A,Washington,Hard,32,2012-07-30
+2012-422,M,Cincinnati Masters,Hard,56,2012-08-12
+2012-6242,A,Winston-Salem,Hard,48,2012-08-19
+2012-560,G,US Open,Hard,128,2012-08-27
+2012-5014,M,Shanghai Masters,Hard,56,2012-10-07
+2012-573,A,Valencia,Hard,32,2012-10-21
+2012-352,M,Paris Masters,Hard,48,2012-10-29
+2013-301,A,Auckland,Hard,28,2013-01-07
+2013-424,A,San Jose,Hard,28,2013-02-11
+2013-402,A,Memphis,Hard,32,2013-02-18
+2013-499,A,Delray Beach,Hard,32,2013-02-25
+2013-404,M,Indian Wells Masters,Hard,96,2013-03-07
+2013-6120,A,Nice,Clay,28,2013-05-19
+2013-311,A,Queen's Club,Grass,56,2013-06-10
+2013-418,A,Washington,Hard,48,2013-07-29
+2013-6242,A,Winston-Salem,Hard,48,2013-08-18
+2013-341,A,Metz,Hard,28,2013-09-16
+2013-747,A,Beijing,Hard,32,2013-09-30
+2014-339,A,Brisbane,Hard,28,2013-12-29
+2014-807,A,Acapulco,Hard,32,2014-02-24
+2014-404,M,Indian Wells Masters,Hard,96,2014-03-06
+2014-403,M,Miami Masters,Hard,96,2014-03-19
+2014-717,A,Houston,Clay,28,2014-04-07
+2014-311,A,Queen's Club,Grass,56,2014-06-09
+2014-741,A,Eastbourne,Grass,28,2014-06-16
+2014-418,A,Washington,Hard,48,2014-07-28
+2014-6242,A,Winston-Salem,Hard,48,2014-08-17
+2014-352,M,Paris Masters,Hard,48,2014-10-27
+2015-402,A,Memphis,Hard,28,2015-02-09
+2015-717,A,Houston,Clay,28,2015-04-06
+2015-1536,M,Madrid Masters,Clay,56,2015-05-03
+2015-6120,A,Nice,Clay,28,2015-05-17
+2015-741,A,Nottingham,Grass,48,2015-06-21
+2015-540,G,Wimbledon,Grass,128,2015-06-29
+2015-315,A,Newport,Grass,32,2015-07-13
+2015-418,A,Washington,Hard,48,2015-08-03
+2015-422,M,Cincinnati Masters,Hard,56,2015-08-16
+2015-329,A,Tokyo,Hard,32,2015-10-05
+2016-0301,A,Auckland,Hard,32,2016-01-11
+2016-0717,A,Houston,Clay,32,2016-04-04
+2016-M021,M,Madrid Masters,Clay,64,2016-05-02
+2016-M010,A,s-Hertogenbosch,Grass,32,2016-06-06
+2016-M035,A,Washington,Hard,64,2016-07-18
+2000-807,A,Mexico City,Clay,32,2000-02-21
+2000-359,A,Bogota,Clay,32,2000-03-06
+2000-360,A,Casablanca,Clay,32,2000-04-10
+2000-319,A,Kitzbuhel,Clay,48,2000-07-24
+2000-325,A,Palermo,Clay,32,2000-09-25
+2001-506,A,Buenos Aires,Clay,32,2001-02-19
+2000-573,A,Mallorca,Clay,32,2000-05-01
+2000-615,A,Dusseldorf,Clay,64,2000-05-21
+2000-419,A,Indianapolis,Hard,56,2000-08-14
+2004-499,A,Delray Beach,Hard,32,2004-09-13
+2007-717,A,Houston,Clay,32,2007-04-09
+2007-741,A,Nottingham,Grass,32,2007-06-18
+2008-423,A,Los Angeles,Hard,28,2008-08-04
+2009-580,G,Australian Open,Hard,128,2009-01-19
+2002-429,A,Stockholm,Hard,32,2002-10-21
+2003-429,A,Stockholm,Hard,32,2003-10-20
+2004-580,G,Australian Open,Hard,128,2004-01-19
+2004-540,G,Wimbledon,Grass,128,2004-06-21
+2004-441,A,Long Island,Hard,32,2004-08-23
+2004-429,A,Stockholm,Hard,32,2004-10-25
+2005-496,A,Marseille,Hard,32,2005-02-07
+2005-407,A,Rotterdam,Hard,32,2005-02-14
+2005-468,A,Estoril,Clay,32,2005-04-25
+2007-339,A,Adelaide,Hard,32,2007-01-01
+2008-429,A,Stockholm,Hard,32,2008-10-06
+2009-429,A,Stockholm,Hard,32,2009-10-19
+2012-891,A,Chennai,Hard,28,2012-01-02
+2013-429,A,Stockholm,Hard,28,2013-10-14
+2014-891,A,Chennai,Hard,28,2013-12-30
+2008-315,A,Newport,Grass,28,2008-07-07
+2008-3348,A,New Haven,Hard,48,2008-08-17
+2012-341,A,Metz,Hard,28,2012-09-17
+2012-337,A,Vienna,Hard,28,2012-10-15
+2006-360,A,Casablanca,Clay,32,2006-04-24
+2015-301,A,Auckland,Hard,28,2015-01-12
+2000-475,A,San Marino,Clay,32,2000-07-24
+2000-773,A,Bucharest,Clay,32,2000-09-11
+2014-315,A,Newport,Grass,32,2014-07-07
+2014-6718,A,Bogota,Hard,28,2014-07-14
+2014-6967,A,Shenzhen,Hard,28,2014-09-22
+2015-339,A,Brisbane,Hard,28,2015-01-04
+2015-580,G,Australian Open,Hard,128,2015-01-19
+2015-506,A,Buenos Aires,Clay,28,2015-02-23
+2015-321,A,Stuttgart,Grass,28,2015-06-08
+2015-6718,A,Bogota,Hard,28,2015-07-20
+2015-6116,A,Atlanta,Hard,28,2015-07-27
+2015-6242,A,Winston-Salem,Hard,48,2015-08-23
+2016-0315,A,Newport,Grass,32,2016-07-11
+2000-481,A,Copenhagen,Hard,32,2000-02-28
+2000-315,A,Newport,Grass,32,2000-07-10
+2000-329,A,Tokyo,Hard,56,2000-10-09
+2000-568,A,St. Petersburg,Hard,32,2000-11-06
+2000-429,A,Stockholm,Hard,32,2000-11-20
+2001-338,A,Sydney,Hard,32,2001-01-08
+2001-441,A,Long Island,Hard,32,2001-08-20
+2002-451,A,Doha,Hard,32,2001-12-31
+2002-402,A,Memphis,Hard,32,2002-02-18
+2002-441,A,Long Island,Hard,48,2002-08-19
+2002-336,A,Hong Kong,Hard,32,2002-09-23
+2003-352,M,Paris Masters,Carpet,48,2003-10-27
+2004-741,A,Nottingham,Grass,32,2004-06-14
+2005-403,M,Miami Masters,Hard,96,2005-03-21
+2005-440,A,'s-Hertogenbosch,Grass,32,2005-06-13
+2005-418,A,Washington,Hard,48,2005-08-01
+2005-890,A,Ho Chi Minh City,Carpet,32,2005-09-26
+2005-429,A,Stockholm,Hard,32,2005-10-10
+2006-505,A,Vina del Mar,Clay,32,2006-01-30
+2007-506,A,Buenos Aires,Clay,32,2007-02-19
+2007-573,A,Valencia,Clay,32,2007-04-09
+2007-316,A,Bastad,Clay,32,2007-07-09
+2008-311,A,Queen's Club,Grass,56,2008-06-09
+2008-316,A,Bastad,Clay,28,2008-07-07
+2008-418,A,Washington,Hard,32,2008-08-10
+2011-6406,C,ATP Challenger Tour Finals CH,Hard,8,2011-11-14
+2012-338,A,Sydney,Hard,28,2012-01-09
+2012-468,A,Estoril,Clay,28,2012-04-30
+2010-891,A,Chennai,Hard,32,2010-01-04
+2011-424,A,San Jose,Hard,32,2011-02-07
+2012-329,A,Tokyo,Hard,32,2012-10-01
+2013-329,A,Tokyo,Hard,32,2013-09-30
+2013-337,A,Vienna,Hard,28,2013-10-14
+2014-301,A,Auckland,Hard,28,2014-01-06
+2014-2276,A,Zagreb,Hard,28,2014-02-03
+2014-440,A,s-Hertogenbosch,Grass,32,2014-06-15
+2001-321,A,Stuttgart,Clay,48,2001-07-16
+2001-773,A,Bucharest,Clay,32,2001-09-10
+2002-425,A,Barcelona,Clay,56,2002-04-22
+2002-439,A,Umag,Clay,32,2002-07-15
+2004-573,A,Valencia,Clay,32,2004-04-12
+2004-311,A,Queen's Club,Grass,56,2004-06-07
+2004-475,A,Sopot,Clay,32,2004-08-09
+2005-451,A,Doha,Hard,32,2005-01-03
+2005-506,A,Buenos Aires,Clay,32,2005-02-07
+2008-425,A,Barcelona,Clay,56,2008-04-28
+2013-506,A,Buenos Aires,Clay,32,2013-02-18
+2014-319,A,Kitzbuhel,Clay,28,2014-07-27
+2015-533,A,Sao Paulo,Clay,28,2015-02-09
+2015-404,M,Indian Wells Masters,Hard,96,2015-03-12
+2015-7163,A,Istanbul,Clay,28,2015-04-27
+2015-319,A,Kitzbuhel,Clay,28,2015-08-03
+2016-0506,A,Buenos Aires,Clay,32,2016-02-08
+2016-M052,A,Rio de Janeiro,Clay,32,2016-02-15
+2016-0533,A,Sao Paulo,Clay,32,2016-02-22
+2016-6120,A,Nice,Clay,32,2016-05-16
+2016-7581,A,Chengdu,Hard,32,2016-09-26
+2016-7485,A,Antwerp,Hard,32,2016-10-17
+2016-0414,A,Hamburg,Clay,32,2016-07-11
+2011-315,A,Newport,Grass,32,2011-07-04
+2014-402,A,Memphis,Hard,28,2014-02-10
+2015-499,A,Delray Beach,Hard,32,2015-02-16
+2016-M020,A,Brisbane,Hard,32,2016-01-04
+2010-339,A,Brisbane,Hard,32,2010-01-03
+2011-339,A,Brisbane,Hard,32,2011-01-02
+2011-418,A,Washington,Hard,48,2011-07-31
+2011-329,A,Tokyo,Hard,32,2011-10-03
+2011-5014,M,Shanghai Masters,Hard,56,2011-10-09
+2012-6116,A,Atlanta,Hard,28,2012-07-16
+2012-6003,A,Kuala Lumpur,Hard,28,2012-09-24
+2013-6718,A,Bogota,Hard,28,2013-07-15
+2013-6116,A,Atlanta,Hard,28,2013-07-22
+2001-424,A,San Jose,Hard,32,2001-02-26
+2001-717,A,Houston,Clay,32,2001-04-30
+2001-328,A,Basel,Carpet,32,2001-10-22
+2002-424,A,San Jose,Hard,32,2002-02-25
+2002-499,A,Delray Beach,Hard,32,2002-03-04
+2002-410,M,Monte Carlo Masters,Clay,64,2002-04-15
+2002-416,M,Rome Masters,Clay,64,2002-05-06
+2002-615,A,Dusseldorf,Clay,64,2002-05-20
+2002-421,M,Canada Masters,Hard,64,2002-07-29
+2002-328,A,Basel,Carpet,32,2002-10-21
+2002-352,M,Paris Masters,Carpet,48,2002-10-28
+2003-402,A,Memphis,Hard,32,2003-02-17
+2003-717,A,Houston,Clay,32,2003-04-21
+2003-306,A,St. Poelten,Clay,32,2003-05-19
+2003-328,A,Basel,Carpet,32,2003-10-20
+2003-605,F,Masters Cup,Hard,8,2003-11-10
+2004-717,A,Houston,Clay,32,2004-04-12
+2004-1720,A,Bangkok,Hard,32,2004-09-27
+2004-605,F,Masters Cup,Hard,8,2004-11-15
+2005-717,A,Houston,Clay,32,2005-04-18
+2005-375,A,Lyon,Carpet,32,2005-10-24
+2006-717,A,Houston,Clay,32,2006-04-10
+2006-337,A,Vienna,Hard,32,2006-10-09
+2006-605,F,Masters Cup,Hard,8,2006-11-13
+2007-306,A,Poertschach,Clay,32,2007-05-20
+2007-418,A,Washington,Hard,48,2007-07-29
+2007-605,F,Masters Cup,Hard,8,2007-11-12
+2008-495,A,Dubai,Hard,32,2008-03-03
+2008-416,M,Rome Masters,Clay,56,2008-05-05
+2008-337,A,Vienna,Hard,32,2008-10-06
+2008-1536,M,Madrid Masters,Hard,48,2008-10-12
+2008-375,A,Lyon,Carpet,32,2008-10-20
+2010-499,A,Delray Beach,Hard,32,2010-02-22
+2010-416,M,Rome Masters,Clay,56,2010-04-25
+2010-468,A,Estoril,Clay,28,2010-05-03
+2010-440,A,s-Hertogenbosch,Grass,28,2010-06-13
+2010-329,A,Tokyo,Hard,32,2010-10-04
+2010-337,A,Vienna,Hard,28,2010-10-25
+2010-328,A,Basel,Hard,32,2010-11-01
+2010-352,M,Paris Masters,Hard,48,2010-11-07
+2011-301,A,Auckland,Hard,28,2011-01-10
+2011-505,A,Santiago,Clay,32,2011-01-31
+2011-807,A,Acapulco,Clay,32,2011-02-21
+2011-425,A,Barcelona,Clay,56,2011-04-18
+2011-1536,M,Madrid Masters,Clay,56,2011-05-01
+2011-440,A,s-Hertogenbosch,Grass,32,2011-06-12
+2011-319,A,Kitzbuhel,Clay,28,2011-07-31
+2011-6242,A,Winston-Salem,Hard,48,2011-08-21
+2011-560,G,US Open,Hard,128,2011-08-29
+2011-1720,A,Bangkok,Hard,28,2011-09-26
+2011-328,A,Basel,Hard,32,2011-10-31
+2011-352,M,Paris Masters,Hard,48,2011-11-07
+2012-339,A,Brisbane,Hard,32,2012-01-01
+2012-301,A,Auckland,Hard,28,2012-01-09
+2012-499,A,Delray Beach,Hard,32,2012-02-27
+2012-807,A,Acapulco,Clay,32,2012-02-27
+2012-425,A,Barcelona,Clay,56,2012-04-23
+2012-741,A,Eastbourne,Grass,28,2012-06-18
+2012-314,A,Gstaad,Clay,28,2012-07-16
+2013-505,A,Santiago,Clay,28,2013-02-04
+2013-807,A,Acapulco,Clay,32,2013-02-25
+2013-773,A,Bucharest,Clay,28,2013-04-22
+2013-352,M,Paris Masters,Hard,48,2013-10-28
+2014-505,A,Vina del Mar,Clay,28,2014-02-03
+2014-506,A,Buenos Aires,Clay,32,2014-02-10
+2014-425,A,Barcelona,Clay,48,2014-04-21
+2014-414,A,Hamburg,Clay,48,2014-07-14
+2015-807,A,Acapulco,Hard,32,2015-02-23
+2015-425,A,Barcelona,Clay,48,2015-04-20
+2015-314,A,Gstaad,Clay,28,2015-07-27
+2016-0308,A,Munich,Clay,32,2016-04-25
+2016-7480,A,Los Cabos,Hard,32,2016-08-08
+2005-329,A,Tokyo,Hard,48,2005-10-03
+2007-315,A,Newport,Grass,32,2007-07-09
+2008-2276,A,Zagreb,Hard,32,2008-02-25
+2008-439,A,Umag,Clay,28,2008-07-14
+2013-717,A,Houston,Clay,28,2013-04-08
+2013-315,A,Newport,Grass,32,2013-07-08
+2014-6120,A,Nice,Clay,28,2014-05-18
+2014-421,M,Canada Masters,Hard,56,2014-08-04
+2014-329,A,Tokyo,Hard,32,2014-09-29
+2014-429,A,Stockholm,Hard,28,2014-10-13
+2015-747,A,Beijing,Hard,32,2015-10-05
+2015-5014,M,Shanghai Masters,Hard,56,2015-10-11
+2015-429,A,Stockholm,Hard,28,2015-10-19
+2015-328,A,Basel,Hard,32,2015-10-26
+2016-M009,M,Rome Masters,Clay,64,2016-05-09
+2016-520,G,Roland Garros,Clay,128,2016-05-23
+2016-M015,A,Beijing,Hard,32,2016-10-03
+2016-5014,M,Shanghai Masters,Hard,64,2016-10-10
+2016-0429,A,Stockholm,Hard,32,2016-10-17
+2016-0328,A,Basel,Hard,32,2016-10-24
+2016-0352,M,Paris Masters,Hard,64,2016-10-31
+2010-1720,A,Bangkok,Hard,28,2010-09-27
+2011-438,A,Moscow,Hard,28,2011-10-17
+2012-410,M,Monte Carlo Masters,Clay,56,2012-04-15
+2012-6120,A,Nice,Clay,28,2012-05-20
+2013-438,A,Moscow,Hard,28,2013-10-14
+2014-328,A,Basel,Hard,32,2014-10-20
+2015-338,A,Sydney,Hard,28,2015-01-11
+2015-500,A,Halle,Grass,32,2015-06-15
+2015-6003,A,Kuala Lumpur,Hard,28,2015-09-28
+2015-438,A,Moscow,Hard,28,2015-10-19
+2016-6967,A,Shenzhen,Hard,32,2016-09-26
+2002-520,G,Roland Garros,Clay,128,2002-05-27
+2016-0316,A,Bastad,Clay,32,2016-07-11
+2008-506,A,Buenos Aires,Clay,32,2008-02-18
+2009-505,A,ViÃ±a del Mar,Clay,28,2009-02-02
+2009-533,A,Costa Do Sauipe,Clay,32,2009-02-09
+2009-807,A,Acapulco,Clay,32,2009-02-23
+2009-1720,A,Bangkok,Hard,28,2009-09-28
+2009-5014,M,Shanghai Masters,Hard,56,2009-10-11
+2010-301,A,Auckland,Hard,28,2010-01-11
+2010-505,A,Santiago,Clay,32,2010-02-01
+2010-533,A,Costa Do Sauipe,Clay,32,2010-02-08
+2010-807,A,Acapulco,Clay,32,2010-02-22
+2010-425,A,Barcelona,Clay,56,2010-04-19
+2010-414,A,Hamburg,Clay,48,2010-07-19
+2011-533,A,Costa Do Sauipe,Clay,28,2011-02-07
+2011-468,A,Estoril,Clay,28,2011-04-25
+2011-423,A,Los Angeles,Hard,28,2011-07-25
+2011-421,M,Canada Masters,Hard,56,2011-08-08
+2012-533,A,Sao Paulo,Clay,28,2012-02-13
+2012-321,A,Stuttgart,Clay,28,2012-07-09
+2012-438,A,Moscow,Hard,28,2012-10-15
+2013-533,A,Sao Paulo,Clay,28,2013-02-11
+2013-425,A,Barcelona,Clay,48,2013-04-22
+2013-321,A,Stuttgart,Clay,28,2013-07-08
+2014-6932,A,Rio de Janeiro,Clay,32,2014-02-17
+2014-533,A,Sao Paulo,Clay,28,2014-02-24
+2014-308,A,Munich,Clay,28,2014-04-28
+2014-337,A,Vienna,Hard,28,2014-10-13
+2014-573,A,Valencia,Hard,32,2014-10-20
+2015-7161,A,Quito,Clay,28,2015-02-02
+2015-416,M,Rome Masters,Clay,56,2015-05-10
+2015-316,A,Bastad,Clay,28,2015-07-20
+2015-352,M,Paris Masters,Hard,48,2015-11-02
+2016-7161,A,Quito,Clay,32,2016-02-01
+2016-0322,A,Geneva,Clay,32,2016-05-16
+2015-6406,C,Challenger Tour Finals,Clay,8,2015-11-23
+2016-6116,A,Atlanta,Hard,32,2016-08-01
+2002-311,A,Queen's Club,Grass,56,2002-06-10
+2002-315,A,Newport,Grass,32,2002-07-08
+2003-301,A,Auckland,Hard,32,2003-01-06
+2003-424,A,San Jose,Hard,32,2003-02-10
+2003-315,A,Newport,Grass,32,2003-07-07
+2004-418,A,Washington,Hard,32,2004-08-16
+2004-337,A,Vienna,Hard,32,2004-10-11
+2005-301,A,Auckland,Hard,32,2005-01-10
+2005-315,A,Newport,Grass,32,2005-07-04
+2005-423,A,Los Angeles,Hard,32,2005-07-25
+2005-1720,A,Bangkok,Hard,32,2005-09-26
+2006-1720,A,Bangkok,Hard,32,2006-09-25
+2006-375,A,Lyon,Carpet,32,2006-10-23
+2007-338,A,Sydney,Hard,32,2007-01-08
+2007-3348,A,New Haven,Hard,48,2007-08-19
+2011-6116,A,Atlanta,Hard,28,2011-07-18
+2011-429,A,Stockholm,Hard,28,2011-10-17
+2012-1720,A,Bangkok,Hard,28,2012-09-24
+2013-338,A,Sydney,Hard,28,2013-01-07
+2013-496,A,Marseille,Hard,28,2013-02-18
+2013-741,A,Eastbourne,Grass,28,2013-06-17
+2014-338,A,Sydney,Hard,28,2014-01-06
+2015-410,M,Monte Carlo Masters,Clay,56,2015-04-12
+2016-M001,A,Sydney,Hard,32,2016-01-11
+2016-0311,A,London,Grass,32,2016-06-13
+2016-0375,A,Montpellier,Hard,32,2016-02-01
+2001-433,A,Scottsdale,Hard,32,2001-03-05
+2001-316,A,Bastad,Clay,32,2001-07-09
+2001-325,A,Palermo,Clay,32,2001-09-24
+2002-505,A,Vina del Mar,Clay,32,2002-02-11
+2002-506,A,Buenos Aires,Clay,32,2002-02-18
+2002-807,A,Acapulco,Clay,32,2002-02-25
+2002-317,A,Amersfoort,Clay,32,2002-07-15
+2002-773,A,Bucharest,Clay,32,2002-09-09
+2002-325,A,Palermo,Clay,32,2002-09-23
+2003-505,A,Vina del Mar,Clay,32,2003-02-10
+2003-425,A,Barcelona,Clay,56,2003-04-21
+2003-325,A,Palermo,Clay,32,2003-09-22
+2004-505,A,Vina del Mar,Clay,32,2004-02-09
+2004-506,A,Buenos Aires,Clay,32,2004-02-16
+2004-533,A,Costa Do Sauipe,Clay,32,2004-02-23
+2004-773,A,Bucharest,Clay,32,2004-09-13
+2005-505,A,Vina del Mar,Clay,32,2005-01-31
+2005-306,A,St. Poelten,Clay,32,2005-05-16
+2005-773,A,Bucharest,Clay,32,2005-09-12
+2006-506,A,Buenos Aires,Clay,32,2006-02-13
+2006-615,A,Dusseldorf,Clay,32,2006-05-22
+2006-316,A,Bastad,Clay,32,2006-07-10
+2006-321,A,Stuttgart,Clay,48,2006-07-17
+2006-328,A,Basel,Carpet,32,2006-10-23
+2007-807,A,Acapulco,Clay,32,2007-02-26
+2007-360,A,Casablanca,Clay,32,2007-04-23
+2007-414,M,Hamburg Masters,Clay,56,2007-05-14
+2007-439,A,Umag,Clay,32,2007-07-23
+2008-505,A,Vina del Mar,Clay,32,2008-01-28
+2008-807,A,Acapulco,Clay,32,2008-02-25
+2008-317,A,Amersfoort,Clay,28,2008-07-14
+2008-341,A,Metz,Hard,32,2008-09-29
+2009-506,A,Buenos Aires,Clay,32,2009-02-16
+2011-506,A,Buenos Aires,Clay,32,2011-02-14
+2011-717,A,Houston,Clay,28,2011-04-04
+2011-439,A,Umag,Clay,28,2011-07-25
+2011-773,A,Bucharest,Clay,28,2011-09-19
+2011-6003,A,Kuala Lumpur,Hard,28,2011-09-26
+2012-506,A,Buenos Aires,Clay,32,2012-02-20
+2012-360,A,Casablanca,Clay,28,2012-04-09
+2012-316,A,Bastad,Clay,28,2012-07-09
+2012-414,A,Hamburg,Clay,32,2012-07-16
+2013-468,A,Estoril,Clay,28,2013-04-29
+2013-316,A,Bastad,Clay,28,2013-07-08
+2013-414,A,Hamburg,Clay,48,2013-07-15
+2014-360,A,Casablanca,Clay,28,2014-04-07
+2014-410,M,Monte Carlo Masters,Clay,56,2014-04-13
+2014-316,A,Bastad,Clay,28,2014-07-07
+2014-439,A,Umag,Clay,28,2014-07-21
+2015-414,A,Hamburg,Clay,32,2015-07-27
+2004-308,A,Munich,Clay,32,2004-04-26
+2006-573,A,Valencia,Clay,32,2006-04-10
+2007-321,A,Stuttgart,Clay,32,2007-07-16
+2007-329,A,Tokyo,Hard,48,2007-10-01
+2008-533,A,Costa Do Sauipe,Clay,32,2008-02-11
+2008-360,A,Casablanca,Clay,32,2008-05-18
+2000-891,A,Chennai,Hard,32,2000-01-03
+2000-306,A,St. Poelten,Clay,32,2000-05-22
+2001-359,A,Bogota,Clay,32,2001-01-28
+2001-499,A,Delray Beach,Hard,32,2001-03-05
+2001-533,A,Costa Do Sauipe,Hard,32,2001-09-10
+2000-505,A,Santiago,Clay,32,2000-02-28
+2000-316,A,Bastad,Clay,32,2000-07-10
+2001-807,A,Acapulco,Clay,32,2001-02-26
+2001-360,A,Casablanca,Clay,32,2001-04-09
+2001-306,A,St. Poelten,Clay,32,2001-05-21
+2001-440,A,'s-Hertogenbosch,Grass,32,2001-06-18
+2001-429,A,Stockholm,Hard,32,2001-10-22
+2002-891,A,Chennai,Hard,32,2001-12-31
+2002-316,A,Bastad,Clay,32,2002-07-08
+2003-891,A,Chennai,Hard,32,2002-12-30
+2004-807,A,Acapulco,Clay,32,2004-03-01
+2004-890,A,Shanghai,Hard,32,2004-09-27
+2005-807,A,Acapulco,Clay,32,2005-02-21
+2005-615,A,Dusseldorf,Clay,32,2005-05-16
+2005-500,A,Halle,Grass,32,2005-06-06
+2007-533,A,Costa Do Sauipe,Clay,32,2007-02-12
+2007-341,A,Metz,Hard,32,2007-10-01
+2008-475,A,Warsaw,Clay,32,2008-06-09
+2008-440,A,s-Hertogenbosch,Grass,32,2008-06-15
+2009-717,A,Houston,Clay,32,2009-04-06
+2001-73,A,Tashkent,Hard,32,2001-09-10
+2000-439,A,Umag,Clay,32,2000-07-17
+2001-315,A,Newport,Grass,32,2001-07-09
+2015-573,A,Valencia,Hard,28,2015-10-26
+2016-0891,A,Chennai,Hard,32,2016-01-04
+2006-425,A,Barcelona,Clay,56,2006-04-24
+2007-773,A,Bucharest,Clay,32,2007-09-10
+2008-338,A,Sydney,Hard,32,2008-01-07
+2008-573,A,Valencia,Clay,32,2008-04-14
+2009-2276,A,Zagreb,Hard,32,2009-02-02
+2009-615,A,Dusseldorf,Clay,32,2009-05-17
+2009-341,A,Metz,Hard,28,2009-09-21
+2009-328,A,Basel,Hard,32,2009-11-02
+2009-352,M,Paris Masters,Hard,48,2009-11-08
+2010-451,A,Doha,Hard,32,2010-01-04
+2010-338,A,Sydney,Hard,28,2010-01-11
+2013-308,A,Munich,Clay,28,2013-04-29
+2000-338,A,Sydney,Hard,32,2000-01-10
+2000-496,A,Marseille,Hard,32,2000-02-07
+2000-410,M,Monte Carlo Masters,Clay,64,2000-04-17
+2000-328,A,Basel,Carpet,32,2000-10-23
+2001-339,A,Adelaide,Hard,32,2001-01-01
+2002-496,A,Marseille,Hard,32,2002-02-11
+2003-410,M,Monte Carlo Masters,Clay,64,2003-04-14
+2003-440,A,'s-Hertogenbosch,Grass,32,2003-06-16
+2003-341,A,Metz,Hard,32,2003-09-29
+2004-339,A,Adelaide,Hard,32,2004-01-05
+2004-341,A,Metz,Hard,32,2004-10-11
+2005-360,A,Casablanca,Clay,32,2005-04-04
+2005-341,A,Metz,Hard,32,2005-10-03
+2006-338,A,Sydney,Hard,32,2006-01-09
+2006-418,A,Washington,Hard,48,2006-07-31
+2006-341,A,Metz,Hard,32,2006-10-02
+2009-495,A,Dubai,Hard,32,2009-02-23
+2010-360,A,Casablanca,Clay,28,2010-04-05
+2010-429,A,Stockholm,Hard,28,2010-10-18
+2006-468,A,Estoril,Clay,32,2006-05-01
+2006-3465,A,Mumbai,Hard,32,2006-09-25
+2006-329,A,Tokyo,Hard,48,2006-10-02
+2007-1720,A,Bangkok,Hard,32,2007-09-24
+2013-6003,A,Kuala Lumpur,Hard,28,2013-09-23
+2012-5053,A,Belgrade,Clay,28,2012-04-30
+2012-319,A,Kitzbuhel,Clay,28,2012-07-22
+2000-408,A,London,Hard,32,2000-02-21
+2000-425,A,Barcelona,Clay,56,2000-04-24
+2001-301,A,Auckland,Hard,32,2001-01-08
+2001-468,A,Estoril,Clay,32,2001-04-09
+2001-352,M,Paris Masters,Carpet,48,2001-10-29
+2002-306,A,St. Poelten,Clay,32,2002-05-20
+2002-533,A,Costa Do Sauipe,Hard,32,2002-09-09
+2003-360,A,Casablanca,Clay,32,2003-04-07
+2003-573,A,Valencia,Clay,32,2003-04-28
+2003-475,A,Sopot,Clay,32,2003-07-28
+2004-301,A,Auckland,Hard,32,2004-01-12
+2004-360,A,Casablanca,Clay,32,2004-05-17
+2006-339,A,Adelaide,Hard,32,2006-01-02
+2006-747,A,Beijing,Hard,32,2006-09-11
+2000-317,A,Amsterdam,Clay,32,2000-07-17
+2003-317,A,Amersfoort,Clay,32,2003-07-14
+2004-314,A,Gstaad,Clay,32,2004-07-05
+2006-306,A,Poertschach,Clay,32,2006-05-22
+2006-317,A,Amersfoort,Clay,32,2006-07-17
+2006-439,A,Umag,Clay,32,2006-07-24
+2006-325,A,Palermo,Clay,32,2006-09-25
+2009-360,A,Casablanca,Clay,32,2009-04-06
+2009-773,A,Bucharest,Clay,32,2009-09-21
+2011-360,A,Casablanca,Clay,28,2011-04-04
+2011-316,A,Bastad,Clay,28,2011-07-11
+2012-6406,C,ATP Challenger Tour Finals CH,Hard,9,2012-11-27
+2013-6406,C,ATP Challenger Tour Finals CH,Clay,8,2013-11-11
+2002-481,A,Copenhagen,Hard,32,2002-02-11
+2004-315,A,Newport,Grass,32,2004-07-05
+2005-433,A,Scottsdale,Hard,32,2005-02-21
+2005-3348,A,New Haven,Hard,48,2005-08-22
+2007-891,A,Chennai,Hard,32,2007-01-01
+2005-317,A,Amersfoort,Clay,32,2005-07-18
+2006-407,A,Rotterdam,Hard,32,2006-02-20
+2003-433,A,Scottsdale,Hard,32,2003-03-03
+2016-7290,A,Estoril,Clay,32,2016-04-25
+2006-475,A,Sopot,Clay,32,2006-07-31
+2010-5059,C,Curitiba CH,Clay,32,2010-04-19
+2011-6120,A,Nice,Clay,28,2011-05-15
+2012-505,A,Santiago,Clay,28,2012-01-30
+2012-615,A,Dusseldorf,Clay,64,2012-05-21
+2012-439,A,Umag,Clay,28,2012-07-09
+2013-440,A,s-Hertogenbosch,Grass,32,2013-06-16
+2013-439,A,Umag,Clay,28,2013-07-22
+2013-5014,M,Shanghai Masters,Hard,56,2013-10-07
+2014-773,A,Bucharest,Clay,28,2014-04-21
+2014-468,A,Estoril,Clay,28,2014-04-28
+2012-773,A,Bucharest,Clay,28,2012-04-23
+2000-499,A,Delray Beach,Hard,32,2000-02-28
+2001-439,A,Umag,Clay,32,2001-07-16
+2009-414,A,Hamburg,Clay,48,2009-07-19
+2011-410,M,Monte Carlo Masters,Clay,56,2011-04-10
+2013-891,A,Chennai,Hard,28,2012-12-31
+2014-496,A,Marseille,Hard,28,2014-02-17
+2015-891,A,Chennai,Hard,28,2015-01-05
+2015-407,A,Rotterdam,Hard,32,2015-02-09
+2015-496,A,Marseille,Hard,28,2015-02-16
+2015-495,A,Dubai,Hard,32,2015-02-23
+2015-308,A,Munich,Clay,28,2015-04-27
+2015-568,A,St. Petersburg,Hard,28,2015-09-21
+2016-0407,A,Rotterdam,Hard,32,2016-02-08
+2003-1720,A,Bangkok,Hard,32,2003-09-22
+2004-329,A,Tokyo,Hard,48,2004-10-04
+2012-440,A,s-Hertogenbosch,Grass,32,2012-06-17
+2013-375,A,Montpellier,Hard,28,2013-02-04
+2001-408,A,Milan,Carpet,32,2001-01-29
+2007-375,A,Lyon,Carpet,32,2007-10-22
+2008-438,A,Moscow,Hard,32,2008-10-06
+2016-0319,A,Kitzbuhel,Clay,32,2016-07-18
+2001-505,A,Vina del Mar,Clay,32,2001-02-12
+2002-319,A,Kitzbuhel,Clay,48,2002-07-22
+2003-506,A,Buenos Aires,Clay,32,2003-02-17
+2003-807,A,Acapulco,Clay,32,2003-02-24
+2004-319,A,Kitzbuhel,Clay,48,2004-07-19
+2004-328,A,Basel,Carpet,32,2004-10-25
+2005-533,A,Costa Do Sauipe,Clay,32,2005-02-14
+2007-319,A,Kitzbuhel,Clay,48,2007-07-23
+2008-717,A,Houston,Clay,32,2008-04-14
+2009-468,A,Estoril,Clay,32,2009-05-03
+2015-451,A,Doha,Hard,32,2015-01-05
+2015-6932,A,Rio de Janeiro,Clay,32,2015-02-16
+2008-1720,A,Bangkok,Hard,28,2008-09-22
+2009-891,A,Chennai,Hard,32,2009-01-05
+2000-339,A,Adelaide,Hard,32,2000-01-03
+2000-433,A,Scottsdale,Hard,32,2000-03-06
+2000-321,A,Stuttgart Outdoor,Clay,32,2000-07-17
+2005-308,A,Munich,Clay,32,2005-04-25
+2005-337,A,Vienna,Hard,32,2005-10-10
+2006-499,A,Delray Beach,Hard,32,2006-01-30
+2011-337,A,Vienna,Hard,28,2011-10-24
+2014-407,A,Rotterdam,Hard,32,2014-02-10
+2014-499,A,Delray Beach,Hard,32,2014-02-17
+2003-499,A,Delray Beach,Hard,32,2003-03-03
+2011-422,M,Cincinnati Masters,Hard,56,2011-08-14
+2005-499,A,Delray Beach,Hard,32,2005-01-31
+2004-317,A,Amersfoort,Clay,32,2004-07-12
+2008-321,A,Stuttgart,Clay,28,2008-07-07
+2009-410,M,Monte Carlo Masters,Clay,56,2009-04-12
+2009-439,A,Umag,Clay,32,2009-07-27
+2004-306,A,St. Poelten,Clay,32,2004-05-17
+2006-301,A,Auckland,Hard,32,2006-01-09
+2010-375,A,Montpellier,Hard,28,2010-10-25
+2011-5012,A,Johannesburg,Hard,32,2011-01-31
+2014-375,A,Montpellier,Hard,28,2014-02-03
+2014-6710,A,Dusseldorf,Clay,28,2014-05-18
+2015-341,A,Metz,Hard,28,2015-09-21
+2015-6967,A,Shenzhen,Hard,28,2015-09-28
+2002-433,A,Scottsdale,Hard,32,2002-03-04
+2003-314,A,Gstaad,Clay,32,2003-07-07
+2001-308,A,Munich,Clay,32,2001-04-30
+2003-481,A,Copenhagen,Hard,32,2003-02-24
+2004-891,A,Chennai,Hard,32,2004-01-05
+2005-573,A,Valencia,Clay,32,2005-04-04
+2014-341,A,Metz,Hard,28,2014-09-15
+2015-7290,A,Estoril,Clay,28,2015-04-27
+2015-311,A,London,Grass,32,2015-06-15
+2016-0329,A,Tokyo,Hard,32,2016-10-03
+2007-337,A,Vienna,Hard,32,2007-10-07
+2008-468,A,Estoril,Clay,32,2008-04-14
+2000-468,A,Estoril,Clay,32,2000-04-10
+2001-319,A,Kitzbuhel,Clay,48,2001-07-23
+2012-375,A,Montpellier,Hard,28,2012-01-30
+2008-319,A,Kitzbuhel,Clay,32,2008-07-14
+2010-321,A,Stuttgart,Clay,28,2010-07-12
+2011-338,A,Sydney,Hard,28,2011-01-10
+2013-360,A,Casablanca,Clay,28,2013-04-08
+2013-319,A,Kitzbuhel,Clay,28,2013-07-28
+2015-337,A,Vienna,Hard,32,2015-10-19
+2016-0360,A,Marrakech,Clay,32,2016-04-04
+2001-890,A,Shanghai,Hard,32,2001-09-17
+2002-339,A,Adelaide,Hard,32,2001-12-31
+2003-533,A,Costa Do Sauipe,Hard,32,2003-09-08
+2001-314,A,Gstaad,Clay,32,2001-07-09
+2001-605,F,Masters Cup,Hard,8,2001-11-12
+2009-339,A,Brisbane,Hard,32,2009-01-04
+2010-410,M,Monte Carlo Masters,Clay,56,2010-04-11
+2011-495,A,Dubai,Hard,32,2011-02-21
+2013-407,A,Rotterdam,Hard,32,2013-02-11
+2014-451,A,Doha,Hard,32,2013-12-30
+2014-6003,A,Kuala Lumpur,Hard,28,2014-09-22
+2014-747,A,Beijing,Hard,32,2014-09-29
+2016-0496,A,Marseille,Hard,32,2016-02-15
+2009-338,A,Sydney,Hard,28,2009-01-12
+2010-506,A,Buenos Aires,Clay,32,2010-02-15
+2011-500,A,Halle,Grass,32,2011-06-06
+2011-891,A,Chennai,Hard,32,2011-01-03
+2016-0500,A,Halle,Grass,32,2016-06-13
+2008-605,F,Masters Cup,Hard,8,2008-11-09
+2009-605,F,Tour Finals,Hard,8,2009-11-22
+2012-496,A,Marseille,Hard,28,2012-02-20
+2012-605,F,Tour Finals,Hard,8,2012-11-05
+2013-328,A,Basel,Hard,32,2013-10-21
+2013-605,F,Tour Finals,Hard,8,2013-11-04
+2007-615,A,Dusseldorf,Clay,32,2007-05-20
+2008-301,A,Auckland,Hard,32,2008-01-07
+2009-747,A,Beijing,Hard,32,2009-10-05
+2010-747,A,Beijing,Hard,32,2010-10-04
+2016-0605,A,London,Hard,8,2016-11-14
+2014-500,A,Halle,Grass,28,2014-06-09
+2010-6120,A,Nice,Clay,28,2010-05-16
+2013-339,A,Brisbane,Hard,28,2012-12-30
+2015-375,A,Montpellier,Hard,28,2015-02-02
+2008-407,A,Rotterdam,Hard,32,2008-02-18
+2010-573,A,Valencia,Hard,32,2010-10-31
+2003-615,A,Dusseldorf,Clay,64,2003-05-19
+2005-605,F,Masters Cup,Carpet,8,2005-11-14
+2000-605,F,Masters Cup,Hard,8,2000-11-27
+2011-605,F,Tour Finals,Hard,16,2011-11-20
+2010-605,F,Tour Finals,Hard,8,2010-11-21
+2014-605,F,Tour Finals,Hard,8,2014-11-09
+2015-605,F,Tour Finals,Hard,8,2015-11-15
+2002-605,F,Masters Cup,Hard,8,2002-11-11

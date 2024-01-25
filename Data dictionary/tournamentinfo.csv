@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+tourney_id,varchar(40),NO,PRI,NULL,
+tourney_level,text,YES,,NULL,
+tourney_name,text,YES,,NULL,
+surface,text,YES,,NULL,
+draw_size,int,YES,,NULL,
+MatchDate,text,YES,,NULL,

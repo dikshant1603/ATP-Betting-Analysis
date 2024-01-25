@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+player_id,int,NO,PRI,NULL,
+player_name,text,YES,,NULL,
+player_hand,text,YES,,NULL,
+player_ht,int,YES,,NULL,
+player_ioc,text,YES,,NULL,
